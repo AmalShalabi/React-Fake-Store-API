@@ -1,6 +1,6 @@
 # React-Fake Store API
 
-In this project I had Built shopping app using React.js. I uased the Fake Store API to create the application. 
+In this project I had built shopping app using React.js. I used the Fake Store API to create the application. 
 I used React Hooks such as :
 - useState
 - useEffect
